@@ -47,3 +47,18 @@ Output: Generates photos of summer (collection 1).
 - Discriminator Model 2:           
 Input: Takes photos of summer from collection 1 and output from Generator Model 2.                  
 Output: Likelihood of image is from collection 1.
+
+### Applications of CycleGAN
+The CycleGAN approach is presented with many impressive applications.
+
+### 1. Style Transfer
+Style transfer is the process of taking an aesthetic approach from one domain, typically paintings, and applying it to another domain, like photos.
+Applying the aesthetics of Monet, Van Gogh, Cezanne, and Ukiyo-e to landscape pictures serves as an illustration of the CycleGAN.
+
+<img src="https://miro.medium.com/max/1400/1*cpvJNkzt_ezdO3qcdokcMw.jpeg" width=40%>
+
+### 2. Object Transfiguration
+Object transfiguration is the transition of an object from one class into another, for as a dog into a cat. It is shown how the CycleGAN may turn pictures of horses into pictures of zebras and the other way around.            
+Given that horses and zebras are comparable in size and structure, with the exception of colour, this kind of transformation seems plausible.
+
+<img src="https://junyanz.github.io/CycleGAN/images/teaser_high_res.jpg" width=80%>
