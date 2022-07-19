@@ -9,7 +9,7 @@ Training a model for image-to-image translation typically requires a large datas
 ### 1. Neural Style Transfer
 Using an optimization technique called neural style transfer, two images—a content image and a style reference image (such as a piece of art by a well-known painter)—are combined to create an output image that resembles the content image but is "painted" in the manner of the style reference image. Numerous well-known Android and iOS apps, including Prisma, DreamScope, and PicsArt, utilise this technology.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200820225906/styletransferexample.PNG" width=50%>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200820225906/styletransferexample.PNG" width=70%>
 
 ### 2. Cycle-GANs
 
@@ -19,7 +19,7 @@ This straightforward method is effective and produces visually attractive result
 
 ### CycleGAN Model Architecture
 
-<img src="https://blog.jaysinha.me/content/images/size/w2000/2021/03/cyclegan.png" width=60%>
+<img src="https://blog.jaysinha.me/content/images/size/w2000/2021/03/cyclegan.png" width=90%>
 
 We will develop an architecture of two GANs, and each GAN has a discriminator and a generator model, meaning there are four models in total in the architecture.
 
