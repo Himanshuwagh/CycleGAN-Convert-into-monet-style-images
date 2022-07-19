@@ -36,6 +36,7 @@ Output: Generates photos of winter (collection 2).
 - Discriminator Model 1:             
 Input: Takes photos of winter from collection 2 and output from Generator Model 1.             
 Output: Likelihood of image is from collection 2.       
+
 Similarly, we can summarize the generator and discriminator models from GAN 2 as follows:
 
 - Generator Model 2:          
