@@ -55,7 +55,7 @@ The CycleGAN approach is presented with many impressive applications.
 Style transfer is the process of taking an aesthetic approach from one domain, typically paintings, and applying it to another domain, like photos.
 Applying the aesthetics of Monet, Van Gogh, Cezanne, and Ukiyo-e to landscape pictures serves as an illustration of the CycleGAN.
 
-<img src="https://miro.medium.com/max/1400/1*cpvJNkzt_ezdO3qcdokcMw.jpeg" width=40%>
+<img src="https://miro.medium.com/max/1400/1*cpvJNkzt_ezdO3qcdokcMw.jpeg" width=50%>
 
 ### 2. Object Transfiguration
 Object transfiguration is the transition of an object from one class into another, for as a dog into a cat. It is shown how the CycleGAN may turn pictures of horses into pictures of zebras and the other way around.            
