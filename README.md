@@ -19,6 +19,8 @@ This straightforward method is effective and produces visually attractive result
 
 ### CycleGAN Model Architecture
 
+<img src="https://blog.jaysinha.me/content/images/size/w2000/2021/03/cyclegan.png" width=60%>
+
 We will develop an architecture of two GANs, and each GAN has a discriminator and a generator model, meaning there are four models in total in the architecture.
 
 The first GAN will generate images of monet style given normal pictures, and the second GAN will generate normal pictures given photos of monet style images.
